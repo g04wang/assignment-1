@@ -3,7 +3,7 @@ mkdir answers
 cd answers 
 nano answers.txt
 
-4. /home/gretchenwang/Github/assignment-1/answers/answers.txt
+4. /Users/gretchenwang/Github/assignment-1/answers/answers.txt
 
 5. -a
 
