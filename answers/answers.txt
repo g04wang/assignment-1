@@ -1,0 +1,17 @@
+3. Commands used: 
+mkdir answers
+cd answers 
+nano answers.txt
+
+4. /home/gretchenwang/Github/assignment-1/answers/answers.txt
+
+5. -a
+
+6. if I use ls (name of other directory)
+
+7. rm is a dangerous command because, if used without -i, it deletes your 
+selected file forever without asking for confirmation. For example, if I'm 
+deleting one file but I accidentally type the name of another 
+similarly-named file that I want to keep, if I don't use -i then rm just 
+deletes the file I wanted to keep with no chance for me to confirm or 
+verify that I'm deleting the right file. 
