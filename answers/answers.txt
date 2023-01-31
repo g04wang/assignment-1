@@ -15,3 +15,11 @@ deleting one file but I accidentally type the name of another
 similarly-named file that I want to keep, if I don't use -i then rm just 
 deletes the file I wanted to keep with no chance for me to confirm or 
 verify that I'm deleting the right file. 
+
+8. mkdir results
+
+9. nano my_script.sh (copy and paste) 
+
+10. chhmod 775 my_script.sh
+
+11. cd ../assignment-1-main/data
