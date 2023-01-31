@@ -7,7 +7,7 @@ nano answers.txt
 
 5. -a
 
-6. if I use ls (name of other directory)
+6. if I use ls (path to other directory)
 
 7. rm is a dangerous command because, if used without -i, it deletes your 
 selected file forever without asking for confirmation. For example, if I'm 
@@ -23,3 +23,20 @@ verify that I'm deleting the right file.
 10. chhmod 775 my_script.sh
 
 11. cd ../assignment-1-main/data
+
+12.
+
+13.  for annual_aqi in *.csv
+> do
+>	~/github/assignment-1/answers/my_scrip.sh $annual_aqi
+>done
+
+14. mkdir unzipped-filess (i made a typo)
+mv *.zip unzipped-files
+unzip "*.zip" 
+
+15. rm *.zip
+
+16. cp annual_aqi_by_county_2*.csv ../../../answers/results
+
+
