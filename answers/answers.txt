@@ -24,7 +24,7 @@ verify that I'm deleting the right file.
 
 11. cd ../assignment-1-main/data
 
-12.
+12.wc -w * | sort -nr | head -n 3
 
 13.  for annual_aqi in *.csv
 > do
