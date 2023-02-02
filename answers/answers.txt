@@ -31,8 +31,8 @@ verify that I'm deleting the right file.
 >	~/github/assignment-1/answers/my_scrip.sh $annual_aqi
 >done
 
-14. mkdir unzipped-filess (i made a typo)
-mv *.zip unzipped-files
+14. mkdir unzipped-filess (i made a typo when making the file)
+mv *.zip unzipped-filess
 unzip "*.zip" 
 
 15. rm *.zip
